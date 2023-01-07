@@ -1,0 +1,3 @@
+sai,10000,TCS,Nasik
+Nani,30000,TCS,Nasik
+Satya,40000,TCS,Nasik
